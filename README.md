@@ -12,7 +12,7 @@ This repository contains a Power BI project for analyzing sales data to derive i
 ## Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/power-bi-project.git
+   git clone https://github.com/Nirmal-Sarkar/Power-BI-Superstore-sales-dashboard
    ```
 2. Open `PowerBI_Project.pbix` in Power BI Desktop.
 3. Import data from `/data` folder, clean, and process using Power Query Editor.
