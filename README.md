@@ -1,7 +1,5 @@
 # Power-BI-Superstore-Sales-Dashboard
 
-# Power BI Project
-
 ## Overview
 This repository contains a Power BI project for analyzing sales data to derive insights and support business decisions. It includes data cleaning, DAX queries, forecasting, and visualization using Power BI.
 
